@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mikenjuki
-- 👀 I’m interested in frontend development and Ui Ux Design.
-- 🌱 I’m currently learning HTML, CSS, Javascript & React. 
+- 👋 Hi, I’m @mikenjuki.
+- 👀 Frontend developer and Ui Ux Designer.
+- 🌱 HTML, CSS, Javascript & React. 
 - 📫 Reach me on twitter @mikenjuki .
 
 <!---
