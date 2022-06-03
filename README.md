@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikenjuki.
-- 👀 Frontend developer and Ui Ux Designer.
+- 👀 Frontend developer || Ui Ux Designer.
 - 🌱 HTML, CSS, Javascript & React. 
 - 📫 Reach me on twitter @mikenjuki .
 
