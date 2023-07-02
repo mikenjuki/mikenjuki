@@ -1,5 +1,5 @@
 - 👀 Frontend developer || Designer.
-- 🌱 HTML, CSS, Javascript & React. 
+- 🌱 JavaScript, React, Next JS, Node JS. 
 - 📫 Reach out to me on twitter @mikenjuki .
 
        <!--- Keep Coding. --->
