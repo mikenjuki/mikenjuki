@@ -26,7 +26,6 @@ alt="JavaScript" />
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
 <img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 
----
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
