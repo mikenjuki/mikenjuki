@@ -13,7 +13,6 @@ I'm a software developer who loves the front end. Beyond coding, I'm also a dedi
 
 ***
  
-
 ### ⚒️ Languages and Tools
 <img align="left"
 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
