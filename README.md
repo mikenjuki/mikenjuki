@@ -27,7 +27,7 @@ alt="JavaScript" />
 <img  src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 
 
-## 📝 Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
