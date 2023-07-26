@@ -1,6 +1,6 @@
 ## 📎Michael
     Code is my brush and this is my canvas.
-I'm a software developer who loves the front end. Beyond coding, I'm also a dedicated writer, carving out my slice of the internet on my blog. There, I share my knowledge in a simpler and straightforward manner, making tech accessible for all.
+I'm a software developer who loves the front-end. Beyond coding, I'm also a dedicated writer, carving out my slice of the internet on my blog. There, I share my knowledge in a simpler and straightforward manner, making tech accessible for all.
 
 #### Here are some links:
 <a href="https://twitter.com/YourTwitterHandle" target="_blank">
@@ -34,5 +34,7 @@ alt="JavaScript" />
 
 ### 🧮 Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikenjuki&layout=donut" alt="Mike Njuki stats" />
+<!--  
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mikenjuki&show_icons=true&theme=tokyonight" alt="Mike Njuki stats" />
+-->
 
