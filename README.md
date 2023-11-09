@@ -1,6 +1,6 @@
 ## 📎Michael
     Code is my brush and this is my canvas.
-I'm a software developer who loves the front-end. Beyond coding, I'm also a writer, carving out my slice of the internet on my blog. There, I share my knowledge in a simpler and straightforward manner, making tech accessible for all.
+I'm a software developer who loves the front-end. Beyond coding, I'm also a writer, carving out my slice of the internet on my blog. There, I share my knowledge more simply and straightforwardly, making tech accessible for all.
 
 #### Here are some links:
 <a href="https://twitter.com/YourTwitterHandle" target="_blank">
