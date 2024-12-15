@@ -33,7 +33,7 @@ alt="JavaScript" />
 
 
 ### 🧮 Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=donut" alt="Mike Njuki langs" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikenjuki&layout=donut" alt="Mike Njuki langs" />
 <!--  
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mikenjuki&show_icons=true&theme=tokyonight" alt="Mike Njuki stats" />
 -->
