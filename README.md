@@ -1,6 +1,6 @@
 📎 Michael
 
-I write code that looks good and works even better. Frontend’s my thing — UI/UX, design systems, all that good stuff.
+I write code that looks good and works even better. Frontend’s my thing: UI/UX, design systems, all that good stuff.
 
 When I’m not pushing pixels or fighting CSS, I’m writing. Not the “dear diary” kind, I break down tech in a way that actually makes sense. You can catch it on my blog.
 
