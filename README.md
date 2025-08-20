@@ -1,6 +1,10 @@
-## 📎Michael
-    Code is my brush and this is my canvas.
-I'm a software developer who loves the front-end. Beyond coding, I'm also a writer, carving out my slice of the internet on my blog. There, I share my knowledge more simply and straightforwardly, making tech accessible for all.
+📎 Michael
+I write code that looks good and works even better. Frontend’s my thing — UI/UX, design systems, all that good stuff.
+
+When I’m not pushing pixels or fighting CSS, I’m writing. Not the “dear diary” kind, I break down tech in a way that actually makes sense. You can catch it on my blog.
+
+This repo? My playground.
+Welcome.
 
 #### Here are some links:
 <a href="https://twitter.com/YourTwitterHandle" target="_blank">
