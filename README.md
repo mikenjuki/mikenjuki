@@ -4,7 +4,7 @@ Frontend Lead. Builder. Writer.
 
 I craft interfaces that feel inevitable, the kind where users don't notice the design because it just *works*. UI/UX and design systems are my home base, but I move across the stack when the problem demands it.
 
-When I'm not writing code I'm writing words. I break down ideas at the intersection of tech, attention, and ambition no fluff, no filler. Catch it on the [blog](https://blog.mikenjuki.com).
+When I'm not writing code I'm writing words. I break down ideas at the intersection of tech, attention, and ambition... no fluff, no filler. Catch it on the [blog](https://blog.mikenjuki.com).
 
 Currently shipping multiple products. Always thinking about the next one.
 
@@ -34,9 +34,9 @@ Currently shipping multiple products. Always thinking about the next one.
 
 ---
 
-### 📊 Stats
+### 📊 Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikenjuki&layout=donut&theme=default)
+![Top Languages](assets/langs.svg)
 
 ---
 
