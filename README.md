@@ -30,7 +30,7 @@ Currently shipping multiple products. Always thinking about the next one.
 
 | Project | Description | Status |
 |---|---|---|
-| **LocalWiki** | Local-first team knowledge base with zero-knowledge encryption. Your wiki, your data. | Active |
+| [**LocalWiki**](https://localwiki.nextbyts.com) | Local-first team knowledge base with     zero-knowledge encryption. Your wiki, your data. | Active |
 
 ---
 
