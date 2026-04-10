@@ -13,7 +13,7 @@ from collections import defaultdict
 USERNAME = "mikenjuki"
 OUTPUT_PATH = "assets/langs.svg"
 
-# Colours per language — extend as needed
+# Colours per language — extend as needed--
 LANG_COLORS = {
     # Web
     "TypeScript":        "#3178c6",
