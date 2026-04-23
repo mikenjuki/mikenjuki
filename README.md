@@ -6,7 +6,7 @@ I craft interfaces that feel inevitable, the kind where users don't notice the d
 
 When I'm not writing code I'm writing words. I break down ideas at the intersection of tech, attention, and ambition... no fluff, no filler. Catch it on the [blog](https://blog.mikenjuki.com).
 
-Currently shipping multiple products. Always thinking about the next one.
+
 
 ---
 
